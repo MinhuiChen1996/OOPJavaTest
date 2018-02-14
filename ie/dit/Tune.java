@@ -40,7 +40,7 @@ public class Tune
   public class Play implements Player
   {
     String b = getNotation;
-	System.out.pritnln(String b);
+	//System.out.pritnln(String b);
   }  
 
 }
